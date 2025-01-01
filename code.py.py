@@ -1,2 +1,3 @@
-print("HELLO")
-print("軟體工程")
+a = int(input("enter a "))
+b = int(input("enter b :"))
+print(a+b)
